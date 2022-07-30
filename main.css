@@ -1,0 +1,44 @@
+
+html {
+    background: #000;
+    color: azure;
+}
+img.zilluimage {
+    width: 200px; height:auto;
+    border-radius: 50px;
+    float: right;
+}
+a:any-link{
+    cursor: pointer;
+}
+
+a{
+    color: rgb(202, 229, 48);
+}
+a:hover{
+    color: white;
+}
+a.downloadresume {
+    color: aqua;
+    font-size: 18px;
+}
+h2.objective{
+    color: brown;
+}
+h2.skills{
+    color: rgb(232, 124, 37);
+}
+h3.form {
+    color: aquamarine;
+}
+
+thead.skill-thead {
+    background: rgb(147, 9, 9);
+}
+table {
+    text-align: center;
+    width: 300pt; height: auto;
+    border: 1px;
+    border-color: rgb(255, 255, 255);
+}
+
